@@ -1,0 +1,12 @@
+{
+  "name": "alokito",
+  "version": "1.0.0",
+  "description": "Single-page website for the Alokito non-profit, built with HTML, CSS and Bootstrap 5.",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
